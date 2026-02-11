@@ -1,4 +1,4 @@
-# Airbnb Investment Opportunity Analysis***
+# Airbnb Investment Opportunity Analysis
 ## Chicago Market | Revenue Modeling | Excel Data Analytics Project
 ### **Executive Summary**
 A real estate investor wants to determine whether investing in an Airbnb property in Chicago is financially viable and which neighborhood and property type would maximize returns.
@@ -130,6 +130,7 @@ Build an interactive Power BI dashboard
 Compare Chicago to other major cities for benchmarking
 
 Develop a predictive revenue forecasting model
+
 
 
 
